@@ -1,4 +1,4 @@
-# 📊 Telco KPI Dashboard – Analyse van Opzegging & Klantgedrag (NL/ENG)
+# Telco KPI Dashboard – Analyse van Opzegging & Klantgedrag (NL/ENG)
 
 **NL (Nederlands)**  
 Een realistisch BI-project voor een fictief telecombedrijf. Van ruwe data tot dashboards en aanbevelingen aan management.  
@@ -10,7 +10,7 @@ Goal: Understand churn, spot support issues, and explain revenue decline.
 
 ---
 
-## 🧠 Zakelijke Context / Business Context
+## Zakelijke Context / Business Context
 
 > “Het management van een telecombedrijf maakt zich zorgen over toenemende klantopzeggingen, slechte klantervaringen en dalende omzet.  
 > Jij bent de data-analist die moet uitzoeken:  
@@ -21,7 +21,7 @@ Goal: Understand churn, spot support issues, and explain revenue decline.
 
 ---
 
-## 📁 Dataoverzicht
+##  Dataoverzicht
 
 | Bestand | Omschrijving |
 |--------|--------------|
@@ -34,16 +34,16 @@ Goal: Understand churn, spot support issues, and explain revenue decline.
 
 ---
 
-## 🧰 Tools Gebruikt
+##  Tools Gebruikt
 
 - Python (pandas, matplotlib, seaborn)
-- Power BI of Streamlit
+- Power BI 
 - GitHub (versiebeheer)
 - Markdown (documentatie)
 
 ---
 
-## 📊 Projectstructuur
+##  Projectstructuur
 
 ```bash
 data/raw/               # Originele CSV-bestanden
