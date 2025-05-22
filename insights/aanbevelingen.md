@@ -1,8 +1,8 @@
 #  Aanbevelingen aan Management – Telco KPI Dashboard
 
 **Project:** Analyse klantopzegging (churn) & klantsegmentatie  
-**Datum:** [Vul hier datum in]  
-**Auteur:** [Jouw naam]
+**Datum:** 22-5-2025
+**Auteur:** Daniel van der Haring
 
 ---
 
