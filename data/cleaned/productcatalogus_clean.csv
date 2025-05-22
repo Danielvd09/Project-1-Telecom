@@ -1,0 +1,5 @@
+product_id,naam,categorie,abonnementsvorm
+P1,Mobiel Onbeperkt,Mobiel,Basis
+P2,Basis Data,Mobiel,Zilver
+P3,Zilver Bundel,Mobiel,Goud
+P4,Goud Alles-in-1,Mobiel,Platina
